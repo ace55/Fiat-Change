@@ -3,7 +3,7 @@
 # Author: Amir Zarei
 # Date:   21 Jan 2023
 #==========================================
-import math
+import mathgit 
 
 # Cents Per Dollar Constants
 DOLLAR = 100
